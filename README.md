@@ -115,7 +115,7 @@ If you use **MultiCMET**, please cite the following paper:
    Zhang, D., Yu, J., Jin, S., Yang, L., & Lin, H. (2023, December). Multicmet: A novel Chinese benchmark for understanding multimodal metaphor. In Findings of the Association for Computational Linguistics: EMNLP 2023 (pp. 6141-6154).
 
 
-## 📚 References (BibTeX)
+### 📚 References (BibTeX)
 
 ```bibtex
 @inproceedings{zhang2021multimet,
