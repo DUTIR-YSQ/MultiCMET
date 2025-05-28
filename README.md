@@ -72,17 +72,19 @@ The dataset consists of two subsets:
 
 If you use **MultiCMET**, please cite the following paper:
 
-``bibtex
+<pre>
+<code>
 @inproceedings{zhang2023multicmet,
-  title     = {MultiCMET: A Novel Chinese Benchmark for Understanding Multimodal Metaphor},
-  author    = {Zhang, Dongyu and Yu, Jingwei and Jin, Senyuan and Yang, Liang and Lin, Hongfei},
+  title = {MultiCMET: A Novel Chinese Benchmark for Understanding Multimodal Metaphor},
+  author = {Zhang, Dongyu and Yu, Jingwei and Jin, Senyuan and Yang, Liang and Lin, Hongfei},
   booktitle = {Findings of the Association for Computational Linguistics: EMNLP 2023},
-  pages     = {6141--6154},
-  year      = {2023},
-  address   = {Singapore},
+  pages = {6141--6154},
+  year = {2023},
+  address = {Singapore},
   publisher = {Association for Computational Linguistics}
 }
-
+</code>
+</pre>
 
 
 ---
