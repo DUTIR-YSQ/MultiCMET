@@ -72,7 +72,7 @@ The dataset consists of two subsets:
 
 If you use **MultiCMET**, please cite the following paper:
 
-```bibtex
+
 @inproceedings{zhang2023multicmet,
   title     = {MultiCMET: A Novel Chinese Benchmark for Understanding Multimodal Metaphor},
   author    = {Zhang, Dongyu and Yu, Jingwei and Jin, Senyuan and Yang, Liang and Lin, Hongfei},
