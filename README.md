@@ -81,6 +81,7 @@ If you use **MultiCMET**, please cite the following paper:
   year      = {2023},
   address   = {Singapore},
   publisher = {Association for Computational Linguistics}
+}
 
 ## 🔬 Explore More Research from Our Lab
 
